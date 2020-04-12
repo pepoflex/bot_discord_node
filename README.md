@@ -1,1 +1,2 @@
-# bot_discord_node
+# Discord-Bot
+A Discord Bot
